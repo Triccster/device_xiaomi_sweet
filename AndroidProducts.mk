@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/dot_sweet.mk
+    $(LOCAL_DIR)/lighthouse_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    dot_sweet-user \
-    dot_sweet-userdebug \
-    dot_sweet-eng
+    lighthouse_sweet-user \
+    lighthouse_sweet-userdebug \
+    lighthouse_sweet-eng
